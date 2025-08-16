@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+mlxtend
+apyori
+scikit-learn
+torch
+transformers
+datasets
